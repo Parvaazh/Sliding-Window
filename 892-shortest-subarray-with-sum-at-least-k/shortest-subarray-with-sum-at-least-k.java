@@ -1,6 +1,3 @@
-import java.util.ArrayDeque;
-import java.util.Deque;
-
 class Solution {
     public int shortestSubarray(int[] nums, int k) {
         int n = nums.length;
